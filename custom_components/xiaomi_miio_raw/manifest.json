@@ -1,6 +1,6 @@
 {
   "domain": "xiaomi_miio_raw",
-  "name": "Custom component for Home Assistant to faciliate the reverse engeneering of Xiaomi MiIO devices",
+  "name": "Custom component for Home Assistant to facilitate the reverse engineering of Xiaomi MiIO devices",
   "codeowners": ["@syssi"],
   "config_flow": false,
   "dependencies": [],
